@@ -391,6 +391,7 @@
             this.button23.TabIndex = 22;
             this.button23.Text = "OFF";
             this.button23.UseVisualStyleBackColor = false;
+            this.button23.Click += new System.EventHandler(this.button23_Click);
             // 
             // button24
             // 
@@ -403,6 +404,7 @@
             this.button24.TabIndex = 23;
             this.button24.Text = "OFF";
             this.button24.UseVisualStyleBackColor = false;
+            this.button24.Click += new System.EventHandler(this.button24_Click);
             // 
             // button25
             // 
@@ -415,6 +417,7 @@
             this.button25.TabIndex = 24;
             this.button25.Text = "OFF";
             this.button25.UseVisualStyleBackColor = false;
+            this.button25.Click += new System.EventHandler(this.button25_Click);
             // 
             // button26
             // 
@@ -453,6 +456,7 @@
             this.button28.TabIndex = 27;
             this.button28.Text = "OFF";
             this.button28.UseVisualStyleBackColor = false;
+            this.button28.Click += new System.EventHandler(this.button28_Click);
             // 
             // button29
             // 
@@ -478,6 +482,7 @@
             this.button30.TabIndex = 29;
             this.button30.Text = "OFF";
             this.button30.UseVisualStyleBackColor = false;
+            this.button30.Click += new System.EventHandler(this.button30_Click);
             // 
             // button31
             // 
@@ -529,6 +534,7 @@
             this.button34.TabIndex = 33;
             this.button34.Text = "OFF";
             this.button34.UseVisualStyleBackColor = false;
+            this.button34.Click += new System.EventHandler(this.button34_Click);
             // 
             // button35
             // 
@@ -541,6 +547,7 @@
             this.button35.TabIndex = 34;
             this.button35.Text = "OFF";
             this.button35.UseVisualStyleBackColor = false;
+            this.button35.Click += new System.EventHandler(this.button35_Click);
             // 
             // button36
             // 
@@ -566,6 +573,7 @@
             this.button37.TabIndex = 36;
             this.button37.Text = "OFF";
             this.button37.UseVisualStyleBackColor = false;
+            this.button37.Click += new System.EventHandler(this.button37_Click);
             // 
             // button38
             // 
@@ -578,6 +586,7 @@
             this.button38.TabIndex = 37;
             this.button38.Text = "OFF";
             this.button38.UseVisualStyleBackColor = false;
+            this.button38.Click += new System.EventHandler(this.button38_Click);
             // 
             // button39
             // 
@@ -590,6 +599,7 @@
             this.button39.TabIndex = 38;
             this.button39.Text = "OFF";
             this.button39.UseVisualStyleBackColor = false;
+            this.button39.Click += new System.EventHandler(this.button39_Click);
             // 
             // button40
             // 
@@ -602,6 +612,7 @@
             this.button40.TabIndex = 39;
             this.button40.Text = "OFF";
             this.button40.UseVisualStyleBackColor = false;
+            this.button40.Click += new System.EventHandler(this.button40_Click);
             // 
             // button41
             // 
@@ -614,6 +625,7 @@
             this.button41.TabIndex = 40;
             this.button41.Text = "OFF";
             this.button41.UseVisualStyleBackColor = false;
+            this.button41.Click += new System.EventHandler(this.button41_Click);
             // 
             // button42
             // 
@@ -626,6 +638,7 @@
             this.button42.TabIndex = 41;
             this.button42.Text = "OFF";
             this.button42.UseVisualStyleBackColor = false;
+            this.button42.Click += new System.EventHandler(this.button42_Click);
             // 
             // button43
             // 
@@ -638,6 +651,7 @@
             this.button43.TabIndex = 42;
             this.button43.Text = "OFF";
             this.button43.UseVisualStyleBackColor = false;
+            this.button43.Click += new System.EventHandler(this.button43_Click);
             // 
             // button44
             // 
@@ -650,6 +664,7 @@
             this.button44.TabIndex = 43;
             this.button44.Text = "OFF";
             this.button44.UseVisualStyleBackColor = false;
+            this.button44.Click += new System.EventHandler(this.button44_Click);
             // 
             // button45
             // 
@@ -662,6 +677,7 @@
             this.button45.TabIndex = 44;
             this.button45.Text = "OFF";
             this.button45.UseVisualStyleBackColor = false;
+            this.button45.Click += new System.EventHandler(this.button45_Click);
             // 
             // button46
             // 
@@ -674,6 +690,7 @@
             this.button46.TabIndex = 45;
             this.button46.Text = "OFF";
             this.button46.UseVisualStyleBackColor = false;
+            this.button46.Click += new System.EventHandler(this.button46_Click);
             // 
             // button47
             // 
@@ -686,6 +703,7 @@
             this.button47.TabIndex = 46;
             this.button47.Text = "OFF";
             this.button47.UseVisualStyleBackColor = false;
+            this.button47.Click += new System.EventHandler(this.button47_Click);
             // 
             // button48
             // 
@@ -698,6 +716,7 @@
             this.button48.TabIndex = 47;
             this.button48.Text = "OFF";
             this.button48.UseVisualStyleBackColor = false;
+            this.button48.Click += new System.EventHandler(this.button48_Click);
             // 
             // button49
             // 
@@ -710,6 +729,7 @@
             this.button49.TabIndex = 48;
             this.button49.Text = "OFF";
             this.button49.UseVisualStyleBackColor = false;
+            this.button49.Click += new System.EventHandler(this.button49_Click);
             // 
             // button50
             // 
@@ -722,6 +742,7 @@
             this.button50.TabIndex = 49;
             this.button50.Text = "OFF";
             this.button50.UseVisualStyleBackColor = false;
+            this.button50.Click += new System.EventHandler(this.button50_Click);
             // 
             // button51
             // 
@@ -734,6 +755,7 @@
             this.button51.TabIndex = 50;
             this.button51.Text = "OFF";
             this.button51.UseVisualStyleBackColor = false;
+            this.button51.Click += new System.EventHandler(this.button51_Click);
             // 
             // button52
             // 
@@ -746,6 +768,7 @@
             this.button52.TabIndex = 51;
             this.button52.Text = "OFF";
             this.button52.UseVisualStyleBackColor = false;
+            this.button52.Click += new System.EventHandler(this.button52_Click);
             // 
             // button53
             // 
@@ -758,6 +781,7 @@
             this.button53.TabIndex = 52;
             this.button53.Text = "OFF";
             this.button53.UseVisualStyleBackColor = false;
+            this.button53.Click += new System.EventHandler(this.button53_Click);
             // 
             // button54
             // 
@@ -770,6 +794,7 @@
             this.button54.TabIndex = 53;
             this.button54.Text = "OFF";
             this.button54.UseVisualStyleBackColor = false;
+            this.button54.Click += new System.EventHandler(this.button54_Click);
             // 
             // button55
             // 
@@ -782,6 +807,7 @@
             this.button55.TabIndex = 54;
             this.button55.Text = "OFF";
             this.button55.UseVisualStyleBackColor = false;
+            this.button55.Click += new System.EventHandler(this.button55_Click);
             // 
             // button56
             // 
@@ -794,6 +820,7 @@
             this.button56.TabIndex = 55;
             this.button56.Text = "OFF";
             this.button56.UseVisualStyleBackColor = false;
+            this.button56.Click += new System.EventHandler(this.button56_Click);
             // 
             // button57
             // 
@@ -806,6 +833,7 @@
             this.button57.TabIndex = 56;
             this.button57.Text = "OFF";
             this.button57.UseVisualStyleBackColor = false;
+            this.button57.Click += new System.EventHandler(this.button57_Click);
             // 
             // button58
             // 
@@ -818,6 +846,7 @@
             this.button58.TabIndex = 57;
             this.button58.Text = "OFF";
             this.button58.UseVisualStyleBackColor = false;
+            this.button58.Click += new System.EventHandler(this.button58_Click);
             // 
             // button59
             // 
@@ -830,6 +859,7 @@
             this.button59.TabIndex = 58;
             this.button59.Text = "OFF";
             this.button59.UseVisualStyleBackColor = false;
+            this.button59.Click += new System.EventHandler(this.button59_Click);
             // 
             // button60
             // 
@@ -842,6 +872,7 @@
             this.button60.TabIndex = 59;
             this.button60.Text = "OFF";
             this.button60.UseVisualStyleBackColor = false;
+            this.button60.Click += new System.EventHandler(this.button60_Click);
             // 
             // button61
             // 
@@ -854,6 +885,7 @@
             this.button61.TabIndex = 60;
             this.button61.Text = "OFF";
             this.button61.UseVisualStyleBackColor = false;
+            this.button61.Click += new System.EventHandler(this.button61_Click);
             // 
             // button62
             // 
@@ -866,6 +898,7 @@
             this.button62.TabIndex = 61;
             this.button62.Text = "OFF";
             this.button62.UseVisualStyleBackColor = false;
+            this.button62.Click += new System.EventHandler(this.button62_Click);
             // 
             // button63
             // 
@@ -878,6 +911,7 @@
             this.button63.TabIndex = 62;
             this.button63.Text = "OFF";
             this.button63.UseVisualStyleBackColor = false;
+            this.button63.Click += new System.EventHandler(this.button63_Click);
             // 
             // button64
             // 
@@ -890,6 +924,7 @@
             this.button64.TabIndex = 63;
             this.button64.Text = "OFF";
             this.button64.UseVisualStyleBackColor = false;
+            this.button64.Click += new System.EventHandler(this.button64_Click);
             // 
             // Form1
             // 
